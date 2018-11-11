@@ -1,0 +1,8 @@
+1. Name: Bounty, weight: 0.05, sugar: 15.0%, isChocolate: true, price: 2.0 USD,  chocolate color: White.
+2. Name: Bounty, weight: 0.05, sugar: 12.0%, isChocolate: true, price: 2.1 USD,  chocolate color: Milk.
+3. Name: Chocolate Paradise, weight: 0.4, sugar: 10.0%, isChocolate: true, price: 5.99 USD, Crunch: true.
+4. Name: Oreo, weight: 0.25, sugar: 16.0%, isChocolate: false, price: 3.99 USD, Crunch: true.
+5. Name: JellyBeans, weight: 0.152, sugar: 50.0%, isChocolate: false, price: 0.99 USD, filling: CocaCola.
+6. Name: Sweet things, weight: 0.015, sugar: 62.0%, isChocolate: false, price: 0.15 USD, flavour: Strawberry.
+7. Name: Sweet things, weight: 0.015, sugar: 62.0%, isChocolate: false, price: 0.15 USD, flavour: Coffee.
+8. Name: Happy Santa, weight: 0.12, sugar: 17.0%, isChocolate: true, price: 1.5 USD, color:Red.
